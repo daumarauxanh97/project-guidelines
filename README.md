@@ -30,5 +30,7 @@ Trong khi việc phát triển dự án mới giống như lăn bánh trên đ�
 Có một vài luật về git nên nhớ trong đầu
 
 - Thực hiện công trong một feature branch
+
  _Why_
+ 
  <Bởi bằng cách này tất cả công việc được thực hiện cô lập trong một branch riêng biệt hơn là branch chính.Nó cho phép bạn gửi nhiều pull requests mà không bị nhầm lẫn.Bạn có thể lặp việc này mà không là ảnh hưởng branch chính với code không ổn định,chưa hoàn thành đọc thêm...

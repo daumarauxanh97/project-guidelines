@@ -167,13 +167,13 @@ Bởi vì hầu hết các lí do bên trên chúng ta sử dụng Feature-branc
 
 Có một hướng dẫn tốt cho việc tạo ra các commit và gắn bó với nó làm cho làm việc với Git và cộng tác với người khác dễ dàng hơn rất nhiều. Dưới đây là một số quy tắc chủ chốt (nguồn):
 
- - Tách nội dung ra khỏi body bằng một dòng mới giữa hai đối tượng.
+ - Tách nội dung ra khỏi thân bằng một dòng mới giữa hai đối tượng.
  
   _Tại sao_
   
   >Git đủ thông minh để phân biệt dòng đầu tiên của commit message của bạn dưới dạng tóm tắt. Trong thực tế, nếu bạn thử git shortlog, thay vì git log, bạn sẽ thấy một danh sách dài các commit message, bao gồm id của commit, và duy nhất bản tóm tắt.
   
- - Giới hạn dòng nội dung tới 50 ký tự gộp body trong 72 ký tự
+ - Giới hạn dòng chủ đề tới 50 ký tự gộp thân trong 72 ký tự
  
   _Tại sao_
   
